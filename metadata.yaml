@@ -15,6 +15,8 @@ description: "Diego Collado's Grammar of the Japanese Language (Latin: Ars gramm
   \ the Japanese language published in 1632, attempting to fit Japanese grammar into\
   \ a Latin grammatical framework. An English translation by Richard L. Spear was\
   \ published in 1975.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17713#Ars-grammaticae-Iaponicae-linguae
 gutenberg_issued: '2006-02-08'
 gutenberg_type: Text
 identifiers:
